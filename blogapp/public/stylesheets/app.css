@@ -1,0 +1,28 @@
+i.icon{
+    font-size:2em;
+}
+.container.main{
+    margin-top: 7.0em;
+}
+
+.ui{
+    font-size:1.5rem;
+}
+.ui.text.container{
+    font-size:1.5rem;
+    border:10px solid lightblue;
+    padding-top:10px;
+}
+.ui.segment{
+    font-size:1.5rem;
+}
+.ui.menu{
+    font-size:1.5rem;
+}
+.ui.form{
+    font-size:1.5rem;
+}
+.ui.button{
+    font-size:1.2rem;
+    color:white;
+}
